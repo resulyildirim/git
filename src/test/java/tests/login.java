@@ -5,6 +5,8 @@ public class login {
 
         System.out.println("please login ");
 
-
+    }
+    public void lol(){
+        System.out.println("Hello, hello");
     }
 }
