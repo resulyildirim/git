@@ -8,5 +8,6 @@ public class login {
     }
     public void lol(){
         System.out.println("Hello, hello");
+        //I added new method
     }
 }
