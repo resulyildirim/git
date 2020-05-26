@@ -6,8 +6,14 @@ public class login {
         System.out.println("please login ");
 
     }
-    public void lol(){
+
+    public void lol() {
         System.out.println("Hello, hello");
         //I added new method
+    }
+
+    public void lol1() {
+        System.out.println("Hello, hello");
+        //I added second method
     }
 }
