@@ -5,4 +5,8 @@ public class login {
   //this is github
         //added login page from github
     }
+    
+    public void lol(){
+        System.out.println("Hello login gel git");
+    }
 }
